@@ -1,0 +1,11 @@
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/bin/Debug/netcoreapp2.1/FizzBuzz_CSharp.deps.json
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/bin/Debug/netcoreapp2.1/FizzBuzz_CSharp.runtimeconfig.json
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/bin/Debug/netcoreapp2.1/FizzBuzz_CSharp.runtimeconfig.dev.json
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/bin/Debug/netcoreapp2.1/FizzBuzz_CSharp.dll
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/bin/Debug/netcoreapp2.1/FizzBuzz_CSharp.pdb
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/obj/Debug/netcoreapp2.1/FizzBuzz_CSharp.csprojAssemblyReference.cache
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/obj/Debug/netcoreapp2.1/FizzBuzz_CSharp.csproj.CoreCompileInputs.cache
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/obj/Debug/netcoreapp2.1/FizzBuzz_CSharp.AssemblyInfoInputs.cache
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/obj/Debug/netcoreapp2.1/FizzBuzz_CSharp.AssemblyInfo.cs
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/obj/Debug/netcoreapp2.1/FizzBuzz_CSharp.dll
+/Users/raynaschexnayder/coding/Excercises_For_Programmers/FizzBuzz_CSharp/obj/Debug/netcoreapp2.1/FizzBuzz_CSharp.pdb
